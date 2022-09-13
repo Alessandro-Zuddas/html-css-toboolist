@@ -1,5 +1,30 @@
+/* Reset */
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
+
+/* Body */
+body{
+    background-color: #F6F8F9;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header */
+header{
+    background-color: white;
+}
+
+#logo{
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.title{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 40px;
+    padding-left: 0;
+}
+
