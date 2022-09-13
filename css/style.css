@@ -28,3 +28,30 @@ header{
     padding-left: 0;
 }
 
+/* Main */
+.container{
+    width: 1000px;
+    height: 50px;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 12px;
+    padding-left: 40px;
+}
+
+.button{
+    padding: 5px;
+    border-radius: 10%;
+}
+
+#add-task{
+    color: white;
+    background-color:  #45ABEA;
+    border-color:  #45ABEA;
+}
+
+#add-section{
+    color: lightgray;
+    background-color: white;
+    border-color: lightgray;
+}
