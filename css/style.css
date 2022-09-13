@@ -83,6 +83,7 @@ header{
 .task-text{
     display: inline-block;
     vertical-align: middle;
+    font-weight: 600;
 }
 
 .list-tag{
