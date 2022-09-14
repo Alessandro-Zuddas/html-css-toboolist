@@ -44,6 +44,7 @@ header{
 .button{
     padding: 5px;
     border-radius: 10%;
+    cursor: pointer;
 }
 
 #add-task{
